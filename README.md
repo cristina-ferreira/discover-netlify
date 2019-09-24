@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [Link](https://practical-lovelace-8c416b.netlify.com)
+* Link to the website deployed on Netlify : [netlify](https://practical-lovelace-8c416b.netlify.com)
