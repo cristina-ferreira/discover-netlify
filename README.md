@@ -2,7 +2,7 @@
 
 ## Instructions
 
-* Fork the project on your own GitHub account
+
 
 * Deploy the project on Netlify
 
